@@ -10,7 +10,7 @@ A small website for seven living
 The issue is the inability to use SVG and remove the submit button on the contact form without an upgrade WordPress of £240.
 This will make SVG blank and unable to remove the submit button on the contact form. 
 
-## Code use for contact information
+## Code use for contact information on wordpress site
 
 ```
   <ul style="display: flex;align-items: center;justify-content: space-around;text-align: left">
