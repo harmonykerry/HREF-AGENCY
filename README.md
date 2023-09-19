@@ -4,7 +4,7 @@
 
 A simple seven living responsive website
 
- ## [Github pages](https://harmonykerry.github.io/HREF-AGENCY/) 
+ ## [Github page](https://harmonykerry.github.io/HREF-AGENCY/) 
 
 ## [WordPress Site](https://worksite44.wordpress.com/)
 The issue is the inability to use SVG and remove the submit button on the contact form without an upgrade WordPress of £240.
