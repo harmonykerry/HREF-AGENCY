@@ -1,8 +1,8 @@
 # HREF-AGENCY
 
-# Random Movie Picker
 
-A small app to help find something to watch based on a keyword
+
+A small website for seven living
 
  ## [Github pages](https://harmonykerry.github.io/HREF-AGENCY/) 
 
