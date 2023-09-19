@@ -2,7 +2,7 @@
 
 
 
-A small website for seven living
+A simple seven living responsive website
 
  ## [Github pages](https://harmonykerry.github.io/HREF-AGENCY/) 
 
