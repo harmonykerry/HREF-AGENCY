@@ -8,8 +8,7 @@ A simple seven living responsive website
 
  ## Description
 
-A static landing page developed for href agency. Please note XD file only contained dimentions for 1920px X 1070px screen size but I have made it responsive for all screen sizes therefore design may differ on small screens.
-Please note I did not find Seven Living logo in assets folder so made it from the provided background image therefore logo's quality is not good.
+A static landing page developed for href agency.
 
 ## Technologies Used
 
